@@ -1,0 +1,5 @@
+logistic
+-variasi evoucher gagal, sepertinya ada code yang perlu di seusaikan (perlu di reproduce)
+
+Rent:
+-driver point tidak update, mungkin caching (perlu di reproduce)
